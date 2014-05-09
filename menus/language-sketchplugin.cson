@@ -1,0 +1,16 @@
+# See https://atom.io/docs/latest/creating-a-package#menus for more details
+'context-menu':
+  '.overlayer':
+      'Enable language-sketchplugin': 'language-sketchplugin:toggle'
+
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'language-sketchplugin'
+      'submenu': [
+        { 'label': 'Toggle', 'command': 'language-sketchplugin:toggle' }
+      ]
+    ]
+  }
+]
