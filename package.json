@@ -1,7 +1,7 @@
 {
   "name": "language-sketchplugin",
   "main": "./lib/language-sketchplugin",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "description": "Correct syntax highlighting for .sketchplugin files",
   "activationEvents": [
     "language-sketchplugin:toggle"
