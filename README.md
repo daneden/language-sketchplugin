@@ -1,5 +1,5 @@
-# language-sketchplugin package
+# language-sketchplugin
 
-A short description of your package.
+A simple package to set (more) correct syntax highlighting for `.sketchplugin` and `.jstalk` files.
 
-![A screenshot of your spankin' package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+Right now, it just sets the same grammar rules as JavaScript, which may or may not be the right thing to do. But it’s better than Plain Text!
