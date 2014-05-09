@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "description": "Correct syntax highlighting for .sketchplugin files",
   "activationEvents": ["language-sketchplugin:toggle"],
-  "repository": "https://github.com/atom/language-sketchplugin",
+  "repository": "https://github.com/daneden/language-sketchplugin",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
