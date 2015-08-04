@@ -1,6 +1,8 @@
 'fileTypes': [
   'sketchplugin',
-  'jstalk'
+  'jstalk',
+  'coscript',
+  'cocoascript'
 ]
 
 'name': 'JSTalk'
